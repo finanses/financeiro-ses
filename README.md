@@ -17,8 +17,18 @@ Assessoria de Finanças
 
 ### Aplicações
 
+Financeiro
+
 - [x] Tratamento de Dados do SIGEF
 - [x] Controle de Processos - Financeiro
 - [x] Atualização dos Saldos Orçamentários
+- [ ] Sistema de Aplicação Financeira
+
+Custos
+
 - [ ] Backend Painel de Contratos
 - [ ] Controle de Processos - Custos
+
+Assessoria
+
+- [ ] 
