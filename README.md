@@ -31,4 +31,4 @@ Custos
 
 Assessoria
 
-- [ ] 
+- [ ] Em análise
