@@ -2,18 +2,12 @@
 
 ### Membros
 
-Controle Financeiro
-
-1. Matheus Farias
-2. Jersiton Tiago (Proprietário)
-
-Controle de Custos
-
-1. Edyr Pereira
-
-Assessoria de Finanças
-
-1. Felipe Zeda
+| Setor | Membro |
+|-------|--------|
+| Controle Financeiro | Jersiton Tiago |
+| Controle Financeiro | Matheus Farias |
+| Controle de Custos  | Edyr Pereira   |
+| Asessoria | Felipe Zeda |
 
 ### Aplicações
 
